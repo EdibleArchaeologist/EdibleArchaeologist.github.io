@@ -1,0 +1,14 @@
+body {
+    background-color: #5F4B8B;
+    background: url('/static/img/Wei Ski.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    #app {
+        border: 10px solid #FFF;
+        height: calc(100vh - 20px);
+    }
+    overflow: hidden;
+    border: 10px solid rgba(0,0,0,0);
+}
